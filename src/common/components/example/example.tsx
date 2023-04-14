@@ -1,6 +1,6 @@
 import './example.scss'
 
-const App = () => (
+const Example = () => (
   <div className="p-4">
     <h1 className="text-4xl font-bold pb-4">Checklist</h1>
     <ul>
@@ -10,4 +10,4 @@ const App = () => (
   </div>
 )
 
-export default App
+export default Example
